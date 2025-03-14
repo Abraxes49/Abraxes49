@@ -1,18 +1,10 @@
-Hi there, I'm Abraxes49 👋
-Welcome to my corner of GitHub! 🌟 I'm passionate about coding, problem-solving, and bringing ideas to life through software. Whether it's building complex systems, experimenting with new technologies, or diving into creative projects, I’m all about learning, sharing, and growing in the world of tech. 🚀
+About Me
+Hi Ther! I'm Adrian, a proactive software developer with a passion for writing efficient and creative code.
 
-What I Do:
+First experience with C++ (2024) – Since then, I’ve been deeply involved in software development, currently working with Python and Java.
+Training as an Application Developer – I’m pursuing further education to advance my career and refine my skills.
+Hands-on Projects – I’ve built small applications, worked on web projects, and experimented with Arduino and embedded systems.
 
-🔥 Write clean, efficient, and maintainable code.
-💡 Work on personal projects and open-source contributions.
-🌱 Constantly learning new languages, frameworks, and tools.
-🎨 Mix creativity with technology to build innovative solutions.
+I’m looking for an internship as an application developer to deepen my knowledge and take on real-world software challenges.
 
-Some of My Favorite Tech:
-
-💻 Languages: Python, JavaScript, C++
-🚀 Tools: Git, Docker, VS Code, AWS
-📚 Frameworks: React, Flask, Django
-🎮 Hobbies: Game development, problem-solving, and building cool stuff with Arduino!
-Let's Connect:
-Feel free to check out my repositories and drop a ⭐ on projects you find interesting. If you have any questions or just want to chat about tech, open-source, or anything else, don't hesitate to reach out. I'm always open to collaborating and learning from others. 😊
+Let’s connect! (Here you can add your contact info, GitHub, LinkedIn, etc.)
